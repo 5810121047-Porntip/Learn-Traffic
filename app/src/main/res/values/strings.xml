@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LernTraffic</string>
+
+
+
+    <string name="head">ป้ายจราจร</string>
 </resources>
